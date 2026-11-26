@@ -60,5 +60,3 @@ Verified in Google Colab:
 **Notebook:** [`notebooks/CS415_Hello_Data.ipynb`](notebooks/CS415_Hello_Data.ipynb)
 
 ---
-
-## 📁 Folder Structure

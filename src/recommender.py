@@ -1,8 +1,7 @@
 """
 Route recommender for Baguio City jeepney routes.
 
-Lab 1: starter module. Matches a destination to routes.
-Lab 2+: will rank routes by demand and travel time.
+Laboratory Session 1: starter module. Matches a destination to routes.
 """
 
 

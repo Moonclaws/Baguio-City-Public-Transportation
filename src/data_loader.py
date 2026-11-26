@@ -1,8 +1,7 @@
 """
 Data loader for Baguio City jeepney routes.
 
-Lab 1: starter module. Loads route data from a JSON file.
-Lab 2+: will load real, verified route data and passenger counts.
+Laboratory Session 1: starter module. Loads route data from a JSON file.
 """
 
 import json
